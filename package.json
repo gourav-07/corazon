@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/pankaj0017/corazon/issues"
   },
-  "homepage": "https://github.com/pankaj0017/corazon#readme"
+  "homepage": "https://github.com/pankaj0017/corazon#readme",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.18.3",
+    "connect-flash": "^0.1.1",
+    "cookie-parser": "^1.4.3"
+  }
 }
